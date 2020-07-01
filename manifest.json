@@ -1,0 +1,27 @@
+{
+  "name": "ChatBot",
+  "short_name": "VMPWA",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "inject": true,
+  "fingerprints": true,
+  "ios": false,
+  "publicPath": null,
+  "includeDirectory": true,
+  "description": "ChatBot PWA",
+  "background_color": "#ffffff",
+  "crossorigin": "use-credentials",
+  "icons": [
+    {
+      "src": "https://d139ozgfcek7oi.cloudfront.net/images/logo/vm-logo-pwa.png",
+      "type": "image/png",
+      "sizes": "192x192",
+    },
+    {
+      "src": "https://d139ozgfcek7oi.cloudfront.net/images/logo/vm-logo-pwa.png",
+      "type": "image/png",
+      "sizes": "512x512",
+    }
+  ]
+}

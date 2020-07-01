@@ -1,0 +1,140 @@
+@font-face {
+    font-family: "icons";
+    src: url("./icons.eot?496a672a3aa11c25d3948d2f8dbee0e4?#iefix") format("embedded-opentype"),
+url("./icons.woff2?496a672a3aa11c25d3948d2f8dbee0e4") format("woff2"),
+url("./icons.woff?496a672a3aa11c25d3948d2f8dbee0e4") format("woff"),
+url("./icons.ttf?496a672a3aa11c25d3948d2f8dbee0e4") format("truetype"),
+url("./icons.svg?496a672a3aa11c25d3948d2f8dbee0e4#icons") format("svg");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-calendar:before {
+    content: "\f101";
+}
+.icon-vm-booked:before {
+    content: "\f102";
+}
+.icon-vm-booking-fail:before {
+    content: "\f103";
+}
+.icon-vm-booking-sucess:before {
+    content: "\f104";
+}
+.icon-vm-calendar:before {
+    content: "\f105";
+}
+.icon-vm-capacity:before {
+    content: "\f106";
+}
+.icon-vm-checkbox-active:before {
+    content: "\f107";
+}
+.icon-vm-checkbox:before {
+    content: "\f108";
+}
+.icon-vm-cross:before {
+    content: "\f109";
+}
+.icon-vm-delete:before {
+    content: "\f10a";
+}
+.icon-vm-down-arrow:before {
+    content: "\f10b";
+}
+.icon-vm-edit:before {
+    content: "\f10c";
+}
+.icon-vm-filter:before {
+    content: "\f10d";
+}
+.icon-vm-hide-eye:before {
+    content: "\f10e";
+}
+.icon-vm-left-arrow:before {
+    content: "\f10f";
+}
+.icon-vm-liquor:before {
+    content: "\f110";
+}
+.icon-vm-location:before {
+    content: "\f111";
+}
+.icon-vm-mail:before {
+    content: "\f112";
+}
+.icon-vm-menu:before {
+    content: "\f113";
+}
+.icon-vm-nonveg:before {
+    content: "\f114";
+}
+.icon-vm-overview:before {
+    content: "\f115";
+}
+.icon-vm-package:before {
+    content: "\f116";
+}
+.icon-vm-payment:before {
+    content: "\f117";
+}
+.icon-vm-phone:before {
+    content: "\f118";
+}
+.icon-vm-photo:before {
+    content: "\f119";
+}
+.icon-vm-plan-event:before {
+    content: "\f11a";
+}
+.icon-vm-radio-active:before {
+    content: "\f11b";
+}
+.icon-vm-radio:before {
+    content: "\f11c";
+}
+.icon-vm-reset:before {
+    content: "\f11d";
+}
+.icon-vm-review:before {
+    content: "\f11e";
+}
+.icon-vm-right-arrow:before {
+    content: "\f11f";
+}
+.icon-vm-rupee:before {
+    content: "\f120";
+}
+.icon-vm-search:before {
+    content: "\f121";
+}
+.icon-vm-share:before {
+    content: "\f122";
+}
+.icon-vm-shortlist:before {
+    content: "\f123";
+}
+.icon-vm-tick:before {
+    content: "\f124";
+}
+.icon-vm-up-arrow:before {
+    content: "\f125";
+}
+.icon-vm-user:before {
+    content: "\f126";
+}
+.icon-vm-veg:before {
+    content: "\f127";
+}
+.icon-vm-view-eye:before {
+    content: "\f128";
+}
